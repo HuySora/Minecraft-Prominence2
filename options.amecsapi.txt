@@ -38,6 +38,9 @@ key_modifiers_key.ftbteams.open_gui:0,0,0
 key_modifiers_key.ktnilcks.lock.toggle.hold:0,0,0
 key_modifiers_key.ktnilcks.lock.bypass.hold:0,0,0
 key_modifiers_key.ktnilcks.options.show:0,0,0
+key_modifiers_key.worldeditcui.toggle:0,0,0
+key_modifiers_key.worldeditcui.clear:0,0,0
+key_modifiers_key.worldeditcui.chunk:0,0,0
 key_modifiers_accessories.key.open_accessories_screen:0,0,0
 key_modifiers_key.adventurez.dragonflydown:0,0,0
 key_modifiers_key.adventurez.dragonfirebreath:0,0,0
@@ -117,6 +120,7 @@ key_modifiers_key.mobhealthbar.chooser:0,0,0
 key_modifiers_key.modern_industrialization.activate:0,0,0
 key_modifiers_key.modmenu.open_menu:0,0,0
 key_modifiers_supplementaries.keybind.quiver:0,0,0
+key_modifiers_key.nbtedit.shortcut:0,0,0
 key_modifiers_gui.xaero_pac_key_open_menu:0,0,0
 key_modifiers_ping-wheel.key.mark-location:0,0,0
 key_modifiers_ping-wheel.key.open-settings:0,0,0
