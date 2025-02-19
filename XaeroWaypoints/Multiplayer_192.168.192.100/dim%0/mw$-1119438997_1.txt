@@ -1,0 +1,25 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Desert:D:4330:65:3998:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Jungle:J:3434:65:2339:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Bamboo Forest:B:517:65:1267:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:3:3:336:127:-721:8:false:0:gui.xaero_default:false:0:0:false
+waypoint:2:2:336:124:-784:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:1:1:399:126:-784:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ocean Ruins (Clear):O:800:65:-2304:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ocean Ruin Warm:O:16:65:1986:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ocean Ruin Cold (Clear):O:704:65:-1776:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ocean Monument:O:1232:65:1136:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Ocean Fortress:O:-32:65:2800:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Home:H:362:152:-742:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:AE2 (3):A:1193:60:10:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:AE2 (2):A:75:104:-209:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:AE2 (1):A:221:90:175:11:false:0:gui.xaero_default:false:0:0:false
+waypoint:Structure (1):S:1959:65:-893:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:MineCell (4):M:1031:82:-1109:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:MineCells (3):M:1353:69:-619:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:MineCells (2):M:683:78:9:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:MineCells:M:421:96:119:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:BetterArcheology:B:331:99:206:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Dungeon:D:119:103:53:4:false:0:gui.xaero_default:false:0:0:false
