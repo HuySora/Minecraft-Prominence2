@@ -361,10 +361,6 @@
     "modId": "connectivity",
     "version": "1.20.1-4.8"
   },
-  "convenientdecor-0.4.1.jar": {
-    "modId": "convenientdecor",
-    "version": "0.4.1"
-  },
   "convenientdecor-0.4.3.jar": {
     "modId": "convenientdecor",
     "version": "0.4.3"
@@ -475,10 +471,6 @@
   "do-a-barrel-roll-3.3.7+1.20-fabric.jar": {
     "modId": "do_a_barrel_roll",
     "version": "3.3.7+1.20"
-  },
-  "doapi-1.2.8-fabric.jar": {
-    "modId": "doapi",
-    "version": "1.2.8"
   },
   "doubledoors-1.20.1-5.9.jar": {
     "modId": "doubledoors",
@@ -872,21 +864,25 @@
     "modId": "legendarytooltips",
     "version": "1.4.4"
   },
-  "letsdo-beachparty-fabric-1.1.3.jar": {
+  "letsdo-API-fabric-1.2.15-fabric.jar": {
+    "modId": "doapi",
+    "version": "1.2.15"
+  },
+  "letsdo-beachparty-fabric-1.1.5.jar": {
     "modId": "beachparty",
-    "version": "1.1.3"
+    "version": "1.1.5"
   },
-  "letsdo-brewery-fabric-1.1.4.jar": {
+  "letsdo-brewery-fabric-1.1.9.jar": {
     "modId": "brewery",
-    "version": "1.1.4"
+    "version": "1.1.9"
   },
-  "letsdo-herbalbrews-fabric-1.0.5.jar": {
+  "letsdo-herbalbrews-fabric-1.0.11.jar": {
     "modId": "herbalbrews",
-    "version": "1.0.5"
+    "version": "1.0.11"
   },
-  "letsdo-vinery-fabric-1.4.11.jar": {
+  "letsdo-vinery-fabric-1.4.38.jar": {
     "modId": "vinery",
-    "version": "1.4.11"
+    "version": "1.4.38"
   },
   "libz-1.0.3.jar": {
     "modId": "libz",
@@ -1120,6 +1116,10 @@
     "version": "1.6.0"
   },
   "opacpvp-fabric-1.0.0-1.20.1.jar": {
+    "modId": "opacpvp",
+    "version": "1.0.0"
+  },
+  "opacpvp-fabric-1.0.1-1.20.1.jar": {
     "modId": "opacpvp",
     "version": "1.0.0"
   },
@@ -1478,9 +1478,9 @@
     "modId": "thaumon",
     "version": "2.2.0+1.20.1"
   },
-  "the_bumblezone-7.4.12+1.20.1-fabric.jar": {
+  "the_bumblezone-7.5.14+1.20.1-fabric.jar": {
     "modId": "the_bumblezone",
-    "version": "7.4.12+1.20.1-fabric"
+    "version": "7.5.14+1.20.1-fabric"
   },
   "The_Graveyard_2.9.1_(FABRIC)_1.20+.jar": {
     "modId": "graveyard",
