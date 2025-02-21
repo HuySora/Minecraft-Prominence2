@@ -56,12 +56,12 @@
 	/**
 	 * Whether to add mod name to tooltips
 	 */
-	append-mod-id: false;
+	append-mod-id: true;
 
 	/**
 	 * Whether to add mod name to item tooltips, in case another mod provides behavior
 	 */
-	append-item-mod-id: false;
+	append-item-mod-id: true;
 
 	/**
 	 * Prevents recipes being quick crafted from shifting around under the cursor.
@@ -131,7 +131,7 @@
 	/**
 	 * Whether recipes should have a button to show the recipe tree.
 	 */
-	recipe-tree-button: false;
+	recipe-tree-button: true;
 
 	/**
 	 * Whether recipes should have a button to fill the ingredients in a handler.
