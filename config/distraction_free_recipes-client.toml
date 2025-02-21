@@ -4,3 +4,6 @@
 #.
 #Lowers the opacity of the search bar to make it blend in more.
 "Lower Opacity ?" = true
+#.
+#Show a message prompting the user to search to view recipes.
+"Show Help Text" = true
