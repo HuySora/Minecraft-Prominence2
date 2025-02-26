@@ -1,5 +1,89 @@
 {
   "bookGuiScale": 0,
   "clickedVisualize": false,
-  "bookData": {}
+  "bookData": {
+    "simplyswords:runic_grimoire": {
+      "viewedEntries": [
+        "simplyswords:gem_socketing/entry_empowered_remnant",
+        "simplyswords:gem_socketing/entry_runefused_gem",
+        "simplyswords:gem_socketing/entry_netherfused_gem",
+        "simplyswords:gem_socketing/entry_howto_socket_gems"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "modern_industrialization:book": {
+      "viewedEntries": [
+        "modern_industrialization:introduction/introduction",
+        "modern_industrialization:steam_age/forge_hammer",
+        "modern_industrialization:steam_age/bronze_boiler",
+        "modern_industrialization:steam_age/making_bronze",
+        "modern_industrialization:steam_age/steam_machines",
+        "modern_industrialization:steam_age/quarry",
+        "modern_industrialization:steam_age/steel_machines",
+        "modern_industrialization:steam_age/steel",
+        "modern_industrialization:steam_age/coke_oven",
+        "modern_industrialization:steam_age/water_pump",
+        "modern_industrialization:steam_age/tanks",
+        "modern_industrialization:steam_age/pipes",
+        "modern_industrialization:electric_age/basic_machines",
+        "modern_industrialization:electric_age/electricity"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "indrev:indrev": {
+      "viewedEntries": [
+        "indrev:machines/basic_machines",
+        "indrev:machines/pump",
+        "indrev:tools/hammer",
+        "indrev:tools/screwdriver",
+        "indrev:transportation/energy",
+        "indrev:machines/factories",
+        "indrev:upgrades/enhancement_upgrades",
+        "indrev:machines/generators",
+        "indrev:machines/batteries"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "minecells:minecells_guidebook": {
+      "viewedEntries": [
+        "minecells:dimensions/overworld",
+        "minecells:dimensions/prison",
+        "minecells:dimensions/promenade",
+        "minecells:dimensions/insufferable_crypt",
+        "minecells:weapons/balanced_blade",
+        "minecells:weapons/cudgel",
+        "minecells:items/doorways",
+        "minecells:items/elevators",
+        "minecells:items/vine_rune",
+        "minecells:weapons/broadsword",
+        "minecells:weapons/electric_whip",
+        "minecells:weapons/firebrands",
+        "minecells:weapons/frost_blast",
+        "minecells:weapons/greed_shield",
+        "minecells:weapons/multiple_nocks_bow",
+        "minecells:weapons/nutcracker",
+        "minecells:weapons/throwing_knife",
+        "minecells:weapons/blood_sword",
+        "minecells:mobs/grenadier",
+        "minecells:mobs/shieldbearer",
+        "minecells:mobs/undead_archer",
+        "minecells:mobs/leaping_zombie",
+        "minecells:dimensions/ramparts",
+        "minecells:mobs/runner",
+        "minecells:mobs/protector",
+        "minecells:mobs/mutated_bat",
+        "minecells:weapons/quick_bow",
+        "minecells:weapons/explosive_crossbow",
+        "minecells:weapons/crowbar",
+        "minecells:weapons/assault_shield",
+        "minecells:weapons/assassins_dagger",
+        "minecells:weapons/hattoris_katana"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
 }

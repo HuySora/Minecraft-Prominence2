@@ -1,0 +1,2 @@
+caveModeType:1
+dimensionTypeId:the_bumblezone:the_bumblezone
