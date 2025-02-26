@@ -632,42 +632,6 @@
 			id: "0E567E587E669BED"
 			rewards: [
 				{
-					id: "70136D4984015F56"
-					item: {
-						Count: 1b
-						id: "mcdw:dagger_void_touched_blade"
-						tag: {
-							Damage: 0
-							Enchantments: [{
-								id: "mcdw:void_strike"
-								lvl: 1s
-							}]
-						}
-					}
-					type: "item"
-				}
-				{
-					id: "7D3DC793B74D8837"
-					item: {
-						Count: 1b
-						id: "mcdw:bow_call_of_the_void"
-						tag: {
-							Damage: 0
-							Enchantments: [
-								{
-									id: "null"
-									lvl: 1s
-								}
-								{
-									id: "mcdw:fuse_shot"
-									lvl: 1s
-								}
-							]
-						}
-					}
-					type: "item"
-				}
-				{
 					id: "5E60883C821CB3E5"
 					item: "prominent:cinderstone_trophy"
 					type: "item"
@@ -1750,6 +1714,13 @@
 					id: "12A95E19A6DDC894"
 					item: "prominent:infused_molten_remnant"
 					type: "item"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "21B6E7DC9CD2B786"
+					table_id: 8008058263494883425L
+					title: "Void Touched Transmog"
+					type: "choice"
 				}
 			]
 			shape: "hexagon"
