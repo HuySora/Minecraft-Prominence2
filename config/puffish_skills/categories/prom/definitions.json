@@ -235,7 +235,7 @@
 	},
 	"donoharm": {
 		"title": "壟 §6High Priest",
-		"description": "§7Turn yourself into the light, becoming a wielder of pure holy power that will heal your allies, but lose damage in exchange.\n \n§f牢 §c+100% §7Healing Power\n§f弄 §6-60% §7Physical Damage",
+		"description": "§7Turn yourself into the light, becoming a wielder of pure holy power that will heal your allies, but lose damage in exchange.\n \n§f牢 §c+10 §7Healing Power\n§f弄 §6-60% §7Physical Damage",
 		"size": 1.4,
 		"frame": {
 			"type": "texture",
@@ -255,14 +255,14 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "spell_power:healing",
-					"value": 0.5,
-					"operation": "multiply_total"
+					"value": 10,
+					"operation": "addition"
 				}
 			},
 			{
 				"type": "puffish_skills:attribute",
 				"data": {
-					"attribute": "puffish_skills:player.melee_damage",
+					"attribute": "generic.attack_damage",
 					"value": -0.6,
 					"operation": "multiply_total"
 				}
@@ -1064,7 +1064,7 @@
 	},
 	"larry": {
 		"title": "§e壟 §6Warrior's Devotion",
-		"description": "§7Greatly increase your damage while wielding two handed weapons at the cost of your magical knowledge.\n\n§f弄 §6+10 §7Physical Damage\n\n§e鹿 §6Titan's Grip\n§7While wielding a two handed weapon:\n§f  弄 §6+100% §7Physical Damage\n§f  籠 §e-300% §7Haste",
+		"description": "§7Greatly increase your damage while wielding two handed weapons at the cost of your elemental magic knowledge.\n\n§f弄 §6+10 §7Physical Damage\n\n§e鹿 §6Titan's Grip\n§7While wielding a two handed weapon:\n§f  弄 §6+100% §7Physical Damage\n§f  籠 §e-300% §7Haste",
 		"size": 1.4,
 		"frame": {
 			"type": "texture",
@@ -1108,6 +1108,30 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "spell_power:frost",
+					"value": -1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "extraspellattributes:converttoarcane",
+					"value": -1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "extraspellattributes:converttofire",
+					"value": -1,
+					"operation": "multiply_total"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "extraspellattributes:converttofrost",
 					"value": -1,
 					"operation": "multiply_total"
 				}

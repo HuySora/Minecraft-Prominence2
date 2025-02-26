@@ -141,7 +141,7 @@
 	},
 	"pledge+alnilam": {
 		"title": "§dPledge to: §cAlnilam",
-		"description": "§7Pledge the power of Orion to the star Alnilam, granting its lethal gift.\n \n§f凌§2 +5 §7Ranged Damage\n§f凌§2 +15% §7Draw Speed\n \n§f鹿 §cAlnilam's Gift\n§7Increase the damage dealt by your abilities from the §cAlnilam's Sight§7 spellbook.",
+		"description": "§7Pledge the power of Orion to the star Alnilam, granting its lethal gift.\n \n§f凌§2 +5 §7Ranged Damage\n§f凌§2 +10% §7Draw Speed\n \n§f鹿 §cAlnilam's Gift\n§7Increase the damage dealt by your abilities from the §cAlnilam's Sight§7 spellbook.",
 		"size": 1.5,
 		"frame": {
 			"type": "texture",
@@ -161,7 +161,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "ranged_weapon:haste",
-					"value": 0.15,
+					"value": 0.10,
 					"operation": "multiply_base"
 				}
 			},
@@ -249,7 +249,7 @@
 	},
 	"nebula-orion": {
 		"title": "§f鹿 §dStrength of the Orion Nebula",
-		"description": "§7Your bond with Orion is strengthened, making the trajectory speed of arrows fired with it be +10% faster, in exchange of -10% slower drawing speed.",
+		"description": "§7Your bond with Orion is strengthened, making the trajectory speed of arrows fired with it become +5% faster, in exchange of -10% slower drawing speed.",
 		"size": 1,
 		"frame": {
 			"type": "texture",
@@ -269,7 +269,7 @@
 				"type": "puffish_skills:attribute",
 				"data": {
 					"attribute": "zenith_attributes:arrow_velocity",
-					"value": 0.1,
+					"value": 0.05,
 					"operation": "multiply_base"
 				}
 			},
