@@ -68,6 +68,7 @@ $folders = @{
             "distraction_free_recipes-fabric-1.0.0-1.20.1.jar",
             "drippyloadingscreen_fabric_3.0.8_MC_1.20.1.jar",
             "eating-animation-1.20+1.9.5-CMDfix.jar",
+            "EMI Create Schematics [1.0.1 Fabric 1.20.1].jar",
             "emiffect-fabric-1.1.2+mc1.20.1.jar",
             "emitrades-fabric-1.2.1+mc1.20.1.jar",
             "entity_model_features_fabric_1.20.1-2.1.3.jar",
