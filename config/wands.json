@@ -10,7 +10,7 @@
   "iron_wand_durability": 512,
   "diamond_wand_durability": 2048,
   "netherite_wand_durability": 4096,
-  "destroy_in_survival_drop": false,
+  "destroy_in_survival_drop": true,
   "survival_unenchanted_drops": true,
   "allow_wand_to_break": false,
   "allow_offhand_to_break": false,
