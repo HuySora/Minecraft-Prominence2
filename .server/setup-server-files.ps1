@@ -111,6 +111,7 @@ $folders = @{
             "sodium-extra-0.5.4+mc1.20.1-build.115.jar",
             "sodium-fabric-0.5.11+mc1.20.1.jar",
             "sorted_enchantments-1.0.1+1.19.3+fabric.jar",
+            "TravelersTitles-1.20-Fabric-4.0.2.jar",
             "visuality-0.7.1+1.20.jar",
             "welcomescreen-fabric-1.0.0-1.20.1.jar",
             "YeetusExperimentus-Fabric-2.3.1-build.6+mc1.20.1.jar",
