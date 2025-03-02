@@ -365,7 +365,7 @@
 			description: [
 				"&7The Beacon of Hope is broken, now, with no way to communicate with S'kellak, you will need to find a way to travel to Vaaz by yourself."
 				""
-				"&eThis questline is coming on v3.1.0, along with the Cinderstone Depths dimension and the capital city of Vaaz!"
+				"&eThis questline is coming on v3.2.0, along with the Cinderstone Depths dimension and the capital city of Vaaz!"
 				""
 				"&6Stay tuned!"
 			]
@@ -376,7 +376,7 @@
 			subtitle: "&8[Click to read lore]"
 			tasks: [{
 				id: "539D6D4124775E80"
-				title: "&eComing on v3.1.0"
+				title: "&eComing on v3.2.0"
 				type: "custom"
 			}]
 			title: "&eJourney to Vaaz"

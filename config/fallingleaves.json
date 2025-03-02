@@ -1070,6 +1070,11 @@
       "spawnRateFactor": 1.0,
       "isConiferBlock": false,
       "spawnBreakingLeaves": true
+    },
+    "vinery:dark_cherry_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
     }
   },
   "leafSpawners": [],
