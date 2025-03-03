@@ -1,5 +1,5 @@
 {
-  "shownWelcomeScreen": false,
-  "bccUpdateString": "v3.1.1",
+  "shownWelcomeScreen": true,
+  "bccUpdateString": "v3.1.5",
   "shownUpdateScreen": false
 }
