@@ -1,0 +1,30 @@
+{
+	id: "ca8c94e8-a1b2-4827-8e6e-fa9b114e4af7"
+	type: "party"
+	owner: "d4471e65-2ddc-303d-8c2d-bf0c518181b9"
+	ranks: {
+		2f802ed2-5988-33d4-9d70-1e4145de9d23: "member"
+		c2f75396-813c-3078-9e1a-c96cce90cc7b: "member"
+		d4471e65-2ddc-303d-8c2d-bf0c518181b9: "owner"
+		136c8695-ee18-3d09-8e70-38946e91d6b6: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "long's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF595B"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739598037248L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"long\"}]}" }
+		{ from: "d4471e65-2ddc-303d-8c2d-bf0c518181b9", date: 1739598037250L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Fury\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739598067820L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Fury\"}]}" }
+		{ from: "d4471e65-2ddc-303d-8c2d-bf0c518181b9", date: 1739599202193L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sora\"}]}" }
+		{ from: "d4471e65-2ddc-303d-8c2d-bf0c518181b9", date: 1739599225837L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sora\"}]}" }
+		{ from: "d4471e65-2ddc-303d-8c2d-bf0c518181b9", date: 1739599239283L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Sora\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739599245235L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Sora\"}]}" }
+		{ from: "d4471e65-2ddc-303d-8c2d-bf0c518181b9", date: 1739604636347L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Rabbit7Colors\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1739604650433L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Rabbit7Colors\"}]}" }
+	]
+	extra: { }
+}

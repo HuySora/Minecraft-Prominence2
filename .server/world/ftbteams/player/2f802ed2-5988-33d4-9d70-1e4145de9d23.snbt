@@ -1,0 +1,15 @@
+{
+	id: "2f802ed2-5988-33d4-9d70-1e4145de9d23"
+	type: "player"
+	player_name: "Rabbit7Colors"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Rabbit7Colors"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AE59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
